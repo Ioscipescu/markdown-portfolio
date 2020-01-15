@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. :eggplant:
+2. :peach:
+3. Videogames
