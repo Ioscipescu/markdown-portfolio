@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Outer Worlds Meme](https://i.kym-cdn.com/photos/images/original/001/439/183/1be.jpg)
